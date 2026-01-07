@@ -11,11 +11,11 @@
 面向人群内容是大方的撒
 ## 报名时间
 
-- 报名开始时间：2026-01-06
+- 报名开始时间：2026-01-05
 - 报名结束时间：2026-01-07
 ## 共学时间
 
-- 共学开始时间：2026-01-08
+- 共学开始时间：2026-01-07
 - 共学结束时间：2026-01-16
 ## 发起人
 
@@ -28,144 +28,6 @@
 
 
 
-## 残酷共学打卡记录表
-
-✅ = Done ⭕️ = Missed ❌ = Failed
-
-<!-- START_COMMIT_TABLE -->
-| Name | 1.08 | 1.09 | 1.10 | 1.11 | 1.12 | 1.13 | 1.14 | 1.15 | 1.16 |
-| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [brucexu-eth](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/brucexu-eth.md) | ✅ | | | | | | | | |
-| [DrakenZeng](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/DrakenZeng.md) | | | | | | | | | |
-<!-- END_COMMIT_TABLE -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- STATISTICALDATA_START -->
 ## 统计数据
 
 - 总参与人数: 0
