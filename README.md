@@ -4,38 +4,31 @@
 
 介绍内容的撒发的撒发
 
+的撒非法违法的撒
 ## 关键词
 
 关键词内容, 的撒
-
 ## 面向人群
 
 面向人群内容是大方的撒
-
 ## 报名时间
 
-- 报名开始时间：2026-01-06
+- 报名开始时间：2026-01-05
 - 报名结束时间：2026-01-07
-
 ## 共学时间
 
-- 共学开始时间：2026-01-08
+- 共学开始时间：2026-01-07
 - 共学结束时间：2026-01-16
-
 ## 发起人
 
 - 姓名：dsadsa
 - GitHub ID：brucexu-eth
 - Telegram：dsadsa
 - Email：dsak@dsajk.com
-
 ## 发起组织
 
-## 报名和打卡规则
 
-- 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
 
-- 打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
 
 ## 残酷共学打卡记录表
 
@@ -69,3 +62,12 @@
 ## 请假规则
 
 每周请假 2 次
+
+
+
+
+## 报名和打卡规则
+
+- 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
+
+- 打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
