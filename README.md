@@ -40,7 +40,9 @@
 | [brucexu-eth](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/brucexu-eth.md) | ⭕️ | ✅ |   | | | | | | | |
 | [DrakenZeng](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/DrakenZeng.md) | ✅ | ⭕️ |   | | | | | | | |
 | [HY-BOT](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/HY-BOT.md) | ⭕️ | ⭕️ | ✅ | | | | | | | |
+| [ethpandaofficial](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/ethpandaofficial.md) | ⭕️ | ⭕️ |   | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
