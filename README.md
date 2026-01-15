@@ -41,9 +41,10 @@
 | [DrakenZeng](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/DrakenZeng.md) | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | |
 | [HY-BOT](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/HY-BOT.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [ethpandaofficial](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/ethpandaofficial.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
-| [autobot886](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autobot886.md) | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | |
+| [autobot886](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autobot886.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | [Ser4nu11EN7](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/Ser4nu11EN7.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
