@@ -43,8 +43,9 @@
 | [ethpandaofficial](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/ethpandaofficial.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [autobot886](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autobot886.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [Ser4nu11EN7](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/Ser4nu11EN7.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
-| [autbot821](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autbot821.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
+| [autbot821](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autbot821.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
