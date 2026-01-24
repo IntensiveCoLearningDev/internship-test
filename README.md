@@ -44,7 +44,10 @@
 | [autobot886](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autobot886.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [Ser4nu11EN7](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/Ser4nu11EN7.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 | [autbot821](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/autbot821.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
+| [nanakodesuu](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/nanakodesuu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
+| [JackCC703](https://github.com/IntensiveCoLearningDev/internship-test/blob/main/notes/JackCC703.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
@@ -92,12 +95,12 @@
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
-- 总参与人数: 4
+- 总参与人数: 6
 - 完成人数: 4
 - 完成用户: HY-BOT, ethpandaofficial, autobot886, autbot821
 - 全勤用户: 
-- 淘汰人数: 3
-- 淘汰率: 75.00%
+- 淘汰人数: 5
+- 淘汰率: 83.33%
 <!-- STATISTICALDATA_END -->
 
 ## 请假规则
